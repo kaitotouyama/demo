@@ -1,0 +1,7 @@
+tomcatDir=C:/Users/trainee01/Downloads/pleiades-2018-09-java-win-64bit-jre_20181004/pleiades/tomcat/8
+eclipse.preferences.version=1
+fixTomcatHomeBug=fixed
+contextsDir=C:/Users/trainee01/Downloads/pleiades-2018-09-java-win-64bit-jre_20181004/pleiades/tomcat/8/conf/Catalina/localhost
+tomcatVersion=tomcatV8
+computeSourcePath=true
+tomcatConfigFile=C:/Users/trainee01/Downloads/pleiades-2018-09-java-win-64bit-jre_20181004/pleiades/tomcat/8/conf/server.xml

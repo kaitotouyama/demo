@@ -1,0 +1,22 @@
+package com.example.demo.service;
+
+import java.awt.Dialog;
+
+public class SampleDialogFragment extends DialogFragment {
+
+    @Override
+    public Dialog onCreateDialog(Bundle savedInstanceState) {
+        return new AlertDialog.Builder(getActivity())
+                .setTitle("タイトル")
+                .setMessage("メッセージ")
+                .create();
+    }
+
+    @Override
+    public void onPause() {
+        super.onPause();
+
+        // onPause でダイアログを閉じる場合
+        dismiss();
+    }
+}

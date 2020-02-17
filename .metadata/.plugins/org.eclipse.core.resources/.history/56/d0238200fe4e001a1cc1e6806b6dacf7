@@ -1,0 +1,12 @@
+package com.example.demo.form;
+
+import java.io.File;
+
+import lombok.Data;
+
+@Data
+public class FileForm {
+
+	private File file;
+
+}

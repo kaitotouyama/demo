@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org"
+	xmlns:sec="http://www.thymeleaf.org/thymeleaf-extras-springsecurity">
+<head>
+<meta charset="UTF-8">
+<title>ファイル出力</title>
+</head>
+<body>
+	<!-- 	<form th:action="@{/fileoutput}" th:object="${file}" -->
+	<!-- 		action="/fileoutput" method="post"> -->
+	<dialog>
+	<form th:action="@{/fileoutput}" th:object="${file}"
+		action="/fileoutput" method="post">
+		<input type="text" name="file" placeholder="フォルダを入力してください"> <input
+			type="submit" value="確定">
+		<button id="close">キャンセル</button>
+	</form>
+	</dialog>
+	<button id="show">ファイル出力</button>
+	<table>
+		<tr th:each="user : ${User}">
+			<td th:text="${user.name}"></td>
+		</tr>
+	</table>
+	<!-- 	<!-- <script type="text/javascript"> -->
+	<!-- 	// var touyama = function() { // var dir = prompt("ディレクトリを入力してください"); -->
+	<!-- 	// return dir; // } -->
+	<!-- 	<!-- </script> -->
+	-->
+	<script>
+		var dialog = document.querySelector('dialog');
+		var btn_show = document.getElementById('show');
+		var btn_close = document.getElementById('close');
+		btn_show.addEventListener('click', function() {
+			dialog.show();
+		}, false);
+		btn_close.addEventListener('click', function() {
+			dialog.close();
+		}, false);
+	</script>
+</body>
+</html>

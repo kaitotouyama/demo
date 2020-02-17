@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org"
+	xmlns:sec="http://www.thymeleaf.org/thymeleaf-extras-springsecurity">
+<head>
+<meta charset="UTF-8">
+<title>ファイル出力</title>
+</head>
+<body>
+	<form th:action="@{/fileoutput}" th:object="${file}" action="/fileoutput" method="post">
+		<input id="file" type="file" name="upfile[]" webkitdirectory>
+	</form>
+	<table>
+		<tr th:each="user : ${User}">
+			<td th:text="${user.name}"></td>
+		</tr>
+	</table>
+</body>
+</html>
