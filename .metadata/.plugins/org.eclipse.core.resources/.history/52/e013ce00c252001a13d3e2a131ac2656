@@ -1,0 +1,9 @@
+dialog {
+  position: relative;
+  width: 500px;
+  padding: 50px;
+  box-sizing: border-box;
+  border-radius: 3px;
+  border: 0;
+  padding: 0;
+}

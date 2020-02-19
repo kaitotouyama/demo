@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org"
+	xmlns:sec="http://www.thymeleaf.org/thymeleaf-extras-springsecurity">
+<head>
+<meta charset="UTF-8">
+<link href="/css/fileoutput.css
+	th:href="@{/css/fileoutput.css}" rel="stylesheet"></link>
+<title>ファイル出力</title>
+</head>
+<body>
+	<div th:text="${error}"></div>
+	<dialog>
+	<form th:action="@{/fileoutput}" th:object="${file}"
+		action="/fileoutput" method="post">
+		<input type="text" name="file" placeholder="フォルダを入力してください"> <input
+			type="submit" value="確定" onclick='return confirm("よろしいですか？")'>
+	</form>
+	<button id="close">キャンセル</button>
+	</dialog>
+	<button id="show">ファイル出力</button>
+	<table>
+		<tr th:each="user : ${User}">
+			<td th:text="${user.id}"></td>
+			<td th:text="${user.name}"></td>
+			<td th:text="${user.password}"></td>
+			<td th:text="${user.position}"></td>
+			<td th:text="${user.text}"></td>
+
+		</tr>
+	</table>
+	<script>
+		var dialog = document.querySelector('dialog');
+		var btn_show = document.getElementById('show');
+		var btn_close = document.getElementById('close');
+		btn_show.addEventListener('click', function() {
+			dialog.show();
+		}, false);
+		btn_close.addEventListener('click', function() {
+			dialog.close();
+		}, false);
+	</script>
+</body>
+</html>

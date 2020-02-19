@@ -1,0 +1,13 @@
+dialog {
+  width: 30%;
+	padding: 10px;
+}
+/* .dir { */
+/* 	width: 2000%; */
+/* 	padding: 10px; */
+/* } */
+
+.file {
+	width: 60%;
+	padding: 10px;
+}

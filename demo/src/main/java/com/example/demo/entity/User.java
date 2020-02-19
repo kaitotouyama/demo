@@ -20,10 +20,13 @@ public class User {
 	@Id
 	@Column(name = "id")
 	private int id;
+
 	@Column(name = "name")
 	private String name;
+
 	@Column(name = "created_date")
 	private LocalDateTime created_date;
+
 	@Column(name = "updated_date")
 	private LocalDateTime updated_date;
 

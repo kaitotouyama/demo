@@ -1,0 +1,6 @@
+dialog {
+  padding: 0;
+  border: 1px solid #eee;
+  box-shadow: 10px 10px 20px #333;
+  position: relative;
+}
