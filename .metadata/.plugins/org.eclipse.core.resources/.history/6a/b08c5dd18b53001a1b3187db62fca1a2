@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org"
+	xmlns:sec="http://www.thymeleaf.org/thymeleaf-extras-springsecurity">
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<div class="centering_parent">
+		<div class="errormessage" th:if="${param.error}">エラー:
+			ユーザ名またはパスワードが違います。</div>
+		<div class="centering_item">
+
+
+			<form th:action="@{/sign_in}" method="post">
+
+				<label>ユーザー名</label> <input type="text" name="username" required />
+				<label>パスワード</label> <input type="password" name="password" required />
+
+				<div>
+					<input class="btn-square" type="submit" value="ログイン" />
+				</div>
+
+			</form>
+		</div>
+	</div>
+</body>
+</html>

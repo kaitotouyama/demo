@@ -2225,3 +2225,1236 @@ Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find
 2020-02-19 13:14:53,024 [Worker-120: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2020-02-19 13:14:53,024 [Worker-120: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
 2020-02-19 13:14:53,024 [Worker-120: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-19 13:14:53,024 [Worker-120: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-19 13:15:45,909 [Worker-115: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-19 13:15:45,910 [Worker-115: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-19 13:15:45,912 [Worker-115: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-02-19 13:15:45,914 [Worker-115: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-19 13:15:45,914 [Worker-115: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 10:21:12,724 [Worker-5: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-02-20 10:21:18,603 [Worker-10: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 10:21:18,611 [Worker-10: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 10:21:18,636 [Worker-10: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-02-20 10:21:18,643 [Worker-10: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 10:21:18,643 [Worker-10: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 10:27:20,906 [Worker-14: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 10:27:20,912 [Worker-14: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 10:27:20,917 [Worker-14: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-02-20 10:27:20,922 [Worker-14: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 10:27:20,922 [Worker-14: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 10:34:01,317 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 10:34:01,319 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 10:34:01,322 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-02-20 10:34:01,326 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 10:34:01,327 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 10:39:59,279 [Worker-26: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 10:39:59,280 [Worker-26: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 10:39:59,283 [Worker-26: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-02-20 10:39:59,286 [Worker-26: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 10:39:59,286 [Worker-26: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 10:40:11,478 [Worker-23: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 10:40:11,480 [Worker-23: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 10:40:11,484 [Worker-23: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-02-20 10:40:11,488 [Worker-23: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 10:40:11,489 [Worker-23: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 10:41:23,205 [Worker-27: ワークスペースをビルド中] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:demo:0.0.1-SNAPSHOT @ C:\Users\trainee01\gitRepository2\demo\pom.xml.
+2020-02-20 10:41:24,318 [Worker-27: ワークスペースをビルド中] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/2.2.4.RELEASE/spring-boot-starter-security-2.2.4.RELEASE.pom のダウンロード中
+2020-02-20 10:41:24,469 [Worker-27: ワークスペースをビルド中] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/2.2.4.RELEASE/spring-boot-starter-security-2.2.4.RELEASE.pom
+2020-02-20 10:41:24,617 [Worker-27: ワークスペースをビルド中] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/5.2.1.RELEASE/spring-security-config-5.2.1.RELEASE.pom のダウンロード中
+2020-02-20 10:41:24,903 [Worker-27: ワークスペースをビルド中] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/5.2.1.RELEASE/spring-security-config-5.2.1.RELEASE.pom
+2020-02-20 10:41:25,059 [Worker-27: ワークスペースをビルド中] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/5.2.1.RELEASE/spring-security-core-5.2.1.RELEASE.pom のダウンロード中
+2020-02-20 10:41:25,208 [Worker-27: ワークスペースをビルド中] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/5.2.1.RELEASE/spring-security-core-5.2.1.RELEASE.pom
+2020-02-20 10:41:25,357 [Worker-27: ワークスペースをビルド中] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/5.2.1.RELEASE/spring-security-web-5.2.1.RELEASE.pom のダウンロード中
+2020-02-20 10:41:25,532 [Worker-27: ワークスペースをビルド中] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/5.2.1.RELEASE/spring-security-web-5.2.1.RELEASE.pom
+2020-02-20 10:41:25,996 [Worker-27: ワークスペースをビルド中] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/2.2.4.RELEASE/spring-boot-starter-security-2.2.4.RELEASE.jar のダウンロード中
+2020-02-20 10:41:26,148 [Worker-27: ワークスペースをビルド中] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/2.2.4.RELEASE/spring-boot-starter-security-2.2.4.RELEASE.jar
+2020-02-20 10:41:26,288 [Worker-27: ワークスペースをビルド中] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/5.2.1.RELEASE/spring-security-config-5.2.1.RELEASE.jar のダウンロード中
+2020-02-20 10:41:27,290 [Worker-27: ワークスペースをビルド中] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/5.2.1.RELEASE/spring-security-config-5.2.1.RELEASE.jar
+2020-02-20 10:41:27,430 [Worker-27: ワークスペースをビルド中] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/5.2.1.RELEASE/spring-security-core-5.2.1.RELEASE.jar のダウンロード中
+2020-02-20 10:41:28,131 [Worker-27: ワークスペースをビルド中] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/5.2.1.RELEASE/spring-security-core-5.2.1.RELEASE.jar
+2020-02-20 10:41:28,271 [Worker-27: ワークスペースをビルド中] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/5.2.1.RELEASE/spring-security-web-5.2.1.RELEASE.jar のダウンロード中
+2020-02-20 10:41:28,983 [Worker-27: ワークスペースをビルド中] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/5.2.1.RELEASE/spring-security-web-5.2.1.RELEASE.jar
+2020-02-20 10:41:30,008 [Worker-27: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 10:41:30,013 [Worker-27: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-02-20 10:41:30,014 [Worker-27: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-02-20 10:41:30,017 [Worker-27: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 10:41:30,018 [Worker-27: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 10:41:31,951 [Worker-26: ソースおよび Javadoc のダウンロード] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/2.2.4.RELEASE/spring-boot-starter-security-2.2.4.RELEASE-sources.jar のダウンロード中
+2020-02-20 10:41:32,087 [Worker-26: ソースおよび Javadoc のダウンロード] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/2.2.4.RELEASE/spring-boot-starter-security-2.2.4.RELEASE-sources.jar
+2020-02-20 10:41:32,101 [Worker-30: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 10:41:32,103 [Worker-30: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 10:41:32,132 [Worker-26: ソースおよび Javadoc のダウンロード] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-security:2.2.4.RELEASE
+2020-02-20 10:41:32,144 [Worker-30: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-02-20 10:41:32,149 [Worker-30: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 10:41:32,149 [Worker-30: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 10:41:32,274 [Worker-26: ソースおよび Javadoc のダウンロード] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/5.2.1.RELEASE/spring-security-config-5.2.1.RELEASE-sources.jar のダウンロード中
+2020-02-20 10:41:33,605 [Worker-26: ソースおよび Javadoc のダウンロード] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/5.2.1.RELEASE/spring-security-config-5.2.1.RELEASE-sources.jar
+2020-02-20 10:41:33,658 [Worker-26: ソースおよび Javadoc のダウンロード] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-config:5.2.1.RELEASE
+2020-02-20 10:41:33,796 [Worker-26: ソースおよび Javadoc のダウンロード] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/5.2.1.RELEASE/spring-security-core-5.2.1.RELEASE-sources.jar のダウンロード中
+2020-02-20 10:41:34,860 [Worker-26: ソースおよび Javadoc のダウンロード] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/5.2.1.RELEASE/spring-security-core-5.2.1.RELEASE-sources.jar
+2020-02-20 10:41:34,930 [Worker-26: ソースおよび Javadoc のダウンロード] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-core:5.2.1.RELEASE
+2020-02-20 10:41:35,066 [Worker-26: ソースおよび Javadoc のダウンロード] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/5.2.1.RELEASE/spring-security-web-5.2.1.RELEASE-sources.jar のダウンロード中
+2020-02-20 10:41:36,284 [Worker-26: ソースおよび Javadoc のダウンロード] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/5.2.1.RELEASE/spring-security-web-5.2.1.RELEASE-sources.jar
+2020-02-20 10:41:36,356 [Worker-26: ソースおよび Javadoc のダウンロード] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-web:5.2.1.RELEASE
+2020-02-20 10:41:36,753 [Worker-26: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 10:41:36,754 [Worker-26: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-02-20 10:41:36,754 [Worker-26: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-02-20 10:41:36,756 [Worker-26: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 10:41:36,756 [Worker-26: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 10:41:54,806 [Worker-30: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 10:41:54,807 [Worker-30: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 10:41:54,810 [Worker-30: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-02-20 10:41:54,814 [Worker-30: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 10:41:54,814 [Worker-30: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 10:42:43,126 [Worker-23: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 10:42:43,128 [Worker-23: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 10:42:43,131 [Worker-23: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-02-20 10:42:43,134 [Worker-23: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 10:42:43,134 [Worker-23: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 10:43:09,205 [Worker-30: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 10:43:09,207 [Worker-30: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 10:43:09,209 [Worker-30: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-02-20 10:43:09,211 [Worker-30: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 10:43:09,211 [Worker-30: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 10:44:17,175 [Worker-32: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 10:44:17,177 [Worker-32: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 10:44:17,180 [Worker-32: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-02-20 10:44:17,184 [Worker-32: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 10:44:17,184 [Worker-32: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 10:47:02,594 [Worker-26: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 10:47:02,596 [Worker-26: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 10:47:02,598 [Worker-26: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-02-20 10:47:02,602 [Worker-26: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 10:47:02,603 [Worker-26: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 10:47:48,685 [Worker-33: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 10:47:48,688 [Worker-33: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 10:47:48,691 [Worker-33: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-02-20 10:47:48,696 [Worker-33: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 10:47:48,696 [Worker-33: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 10:48:54,484 [Worker-33: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 10:48:54,485 [Worker-33: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 10:48:54,488 [Worker-33: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-02-20 10:48:54,492 [Worker-33: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 10:48:54,492 [Worker-33: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 10:49:02,428 [Worker-23: Resolving model org.eclipse.recommenders:index::zip:0.0.0] WARN  o.e.r.models.ModelRepository - Failed to download org.eclipse.recommenders:index::zip:0.0.0
+org.eclipse.aether.resolution.ArtifactResolutionException: Could not find artifact org.eclipse.recommenders:index:zip:0.0.0-SNAPSHOT in models (http://download.eclipse.org/recommenders/models/photon/)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:453) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:255) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifact(DefaultArtifactResolver.java:232) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveArtifact(DefaultRepositorySystem.java:303) ~[na:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolveInternal(ModelRepository.java:193) [org.eclipse.recommenders.models_2.5.4.v20180909-1132.jar:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolve(ModelRepository.java:172) [org.eclipse.recommenders.models_2.5.4.v20180909-1132.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.EclipseModelRepository.resolve(EclipseModelRepository.java:168) [org.eclipse.recommenders.models.rcp_2.5.4.v20180909-1132.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.DownloadModelArchiveJob.run(DownloadModelArchiveJob.java:76) [org.eclipse.recommenders.models.rcp_2.5.4.v20180909-1132.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) [org.eclipse.core.jobs_3.10.100.v20180817-1215.jar:na]
+Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find artifact org.eclipse.recommenders:index:zip:0.0.0-SNAPSHOT in models (http://download.eclipse.org/recommenders/models/photon/)
+	at org.eclipse.aether.connector.basic.ArtifactTransportListener.transferFailed(ArtifactTransportListener.java:48) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$TaskRunner.run(BasicRepositoryConnector.java:364) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.util.concurrency.RunnableErrorForwarder$1.run(RunnableErrorForwarder.java:76) ~[na:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$DirectExecutor.execute(BasicRepositoryConnector.java:590) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector.get(BasicRepositoryConnector.java:258) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:529) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:430) ~[na:na]
+	... 8 common frames omitted
+2020-02-20 10:49:31,901 [Worker-26: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 10:49:31,901 [Worker-26: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 10:49:31,901 [Worker-26: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-02-20 10:49:31,916 [Worker-26: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 10:49:31,916 [Worker-26: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 10:50:27,485 [Worker-30: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 10:50:27,485 [Worker-30: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 10:50:27,485 [Worker-30: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-02-20 10:50:27,485 [Worker-30: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 10:50:27,485 [Worker-30: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 11:08:15,682 [Worker-39: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 11:08:15,682 [Worker-39: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 11:08:15,697 [Worker-39: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-02-20 11:08:15,697 [Worker-39: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 11:08:15,697 [Worker-39: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 11:08:52,178 [Worker-40: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 11:08:52,178 [Worker-40: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 11:08:52,178 [Worker-40: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-02-20 11:08:52,178 [Worker-40: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 11:08:52,193 [Worker-40: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 11:09:54,021 [Worker-40: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 11:09:54,021 [Worker-40: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 11:09:54,021 [Worker-40: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-02-20 11:09:54,021 [Worker-40: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 11:09:54,037 [Worker-40: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 11:10:13,684 [Worker-42: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 11:10:13,684 [Worker-42: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 11:10:13,684 [Worker-42: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-02-20 11:10:13,700 [Worker-42: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 11:10:13,700 [Worker-42: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 11:16:48,233 [Worker-41: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 11:16:48,233 [Worker-41: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 11:16:48,233 [Worker-41: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-02-20 11:16:48,233 [Worker-41: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 11:16:48,233 [Worker-41: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 11:34:25,122 [Worker-51: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 11:34:25,122 [Worker-51: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 11:34:25,138 [Worker-51: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-02-20 11:34:25,138 [Worker-51: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 11:34:25,138 [Worker-51: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 11:35:16,583 [Worker-46: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 11:35:16,583 [Worker-46: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 11:35:16,583 [Worker-46: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-02-20 11:35:16,583 [Worker-46: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 11:35:16,583 [Worker-46: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 11:36:22,893 [Worker-49: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 11:36:22,893 [Worker-49: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 11:36:22,893 [Worker-49: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-02-20 11:36:22,893 [Worker-49: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 11:36:22,893 [Worker-49: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 11:37:09,277 [Worker-44: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 11:37:09,277 [Worker-44: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 11:37:09,277 [Worker-44: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-02-20 11:37:09,277 [Worker-44: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 11:37:09,277 [Worker-44: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 11:37:40,719 [Worker-52: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 11:37:40,719 [Worker-52: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 11:37:40,719 [Worker-52: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-02-20 11:37:40,719 [Worker-52: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 11:37:40,719 [Worker-52: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 11:38:03,935 [Worker-51: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 11:38:03,935 [Worker-51: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 11:38:03,950 [Worker-51: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-02-20 11:38:03,950 [Worker-51: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 11:38:03,950 [Worker-51: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 11:50:56,849 [Worker-49: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 11:50:56,850 [Worker-49: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 11:50:56,850 [Worker-49: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-02-20 11:50:56,850 [Worker-49: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 11:50:56,850 [Worker-49: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 11:51:13,261 [Worker-49: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 11:51:13,261 [Worker-49: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 11:51:13,276 [Worker-49: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-02-20 11:51:13,276 [Worker-49: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 11:51:13,276 [Worker-49: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 11:51:33,656 [Worker-44: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 11:51:33,656 [Worker-44: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 11:51:33,656 [Worker-44: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-02-20 11:51:33,656 [Worker-44: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 11:51:33,656 [Worker-44: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 11:51:52,573 [Worker-49: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 11:51:52,573 [Worker-49: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 11:51:52,573 [Worker-49: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-02-20 11:51:52,573 [Worker-49: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 11:51:52,573 [Worker-49: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 11:54:49,033 [Worker-57: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 11:54:49,033 [Worker-57: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 11:54:49,033 [Worker-57: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-02-20 11:54:49,033 [Worker-57: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 11:54:49,033 [Worker-57: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 11:55:36,326 [Worker-57: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 11:55:36,326 [Worker-57: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 11:55:36,326 [Worker-57: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-02-20 11:55:36,326 [Worker-57: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 11:55:36,326 [Worker-57: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 11:55:42,808 [Worker-64: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 11:55:42,808 [Worker-64: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 11:55:42,808 [Worker-64: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-02-20 11:55:42,808 [Worker-64: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 11:55:42,808 [Worker-64: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 11:55:57,157 [Worker-57: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 11:55:57,157 [Worker-57: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 11:55:57,172 [Worker-57: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-02-20 11:55:57,172 [Worker-57: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 11:55:57,172 [Worker-57: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 11:56:08,892 [Worker-49: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 11:56:08,892 [Worker-49: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 11:56:08,892 [Worker-49: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-02-20 11:56:08,892 [Worker-49: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 11:56:08,892 [Worker-49: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 11:56:36,289 [Worker-57: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 11:56:36,289 [Worker-57: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 11:56:36,289 [Worker-57: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-02-20 11:56:36,289 [Worker-57: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 11:56:36,289 [Worker-57: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 11:57:03,861 [Worker-49: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 11:57:03,877 [Worker-49: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 11:57:03,877 [Worker-49: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-02-20 11:57:03,877 [Worker-49: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 11:57:03,877 [Worker-49: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 11:57:29,992 [Worker-60: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 11:57:29,992 [Worker-60: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 11:57:29,992 [Worker-60: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-02-20 11:57:29,992 [Worker-60: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 11:57:29,992 [Worker-60: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 11:57:43,943 [Worker-57: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 11:57:43,943 [Worker-57: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 11:57:43,959 [Worker-57: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-02-20 11:57:43,959 [Worker-57: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 11:57:43,959 [Worker-57: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 11:58:30,811 [Worker-57: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 11:58:30,827 [Worker-57: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 11:58:30,827 [Worker-57: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-02-20 11:58:30,827 [Worker-57: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 11:58:30,827 [Worker-57: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 11:58:55,257 [Worker-57: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 11:58:55,257 [Worker-57: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 11:58:55,257 [Worker-57: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-02-20 11:58:55,257 [Worker-57: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 11:58:55,257 [Worker-57: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 13:38:02,000 [Worker-78: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 13:38:02,016 [Worker-78: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 13:38:02,016 [Worker-78: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-02-20 13:38:02,016 [Worker-78: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 13:38:02,016 [Worker-78: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 13:39:15,658 [Worker-84: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 13:39:15,658 [Worker-84: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 13:39:15,658 [Worker-84: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-02-20 13:39:15,673 [Worker-84: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 13:39:15,673 [Worker-84: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 13:40:21,062 [Worker-78: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 13:40:21,062 [Worker-78: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 13:40:21,062 [Worker-78: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 13:40:21,062 [Worker-78: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 13:40:21,062 [Worker-78: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 13:40:55,993 [Worker-84: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 13:40:55,993 [Worker-84: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 13:40:55,993 [Worker-84: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 13:40:56,008 [Worker-84: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 13:40:56,008 [Worker-84: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 13:41:25,169 [Worker-85: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 13:41:25,169 [Worker-85: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 13:41:25,185 [Worker-85: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 13:41:25,185 [Worker-85: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 13:41:25,185 [Worker-85: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 13:41:48,214 [Worker-84: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 13:41:48,214 [Worker-84: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 13:41:48,214 [Worker-84: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 13:41:48,220 [Worker-84: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 13:41:48,220 [Worker-84: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 13:42:02,068 [Worker-85: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 13:42:02,068 [Worker-85: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 13:42:02,068 [Worker-85: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 13:42:02,068 [Worker-85: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 13:42:02,068 [Worker-85: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 13:43:48,201 [Worker-89: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 13:43:48,201 [Worker-89: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 13:43:48,201 [Worker-89: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 13:43:48,216 [Worker-89: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 13:43:48,216 [Worker-89: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 13:44:02,521 [Worker-82: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 13:44:02,521 [Worker-82: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 13:44:02,537 [Worker-82: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 13:44:02,537 [Worker-82: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 13:44:02,537 [Worker-82: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 13:44:51,373 [Worker-84: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 13:44:51,388 [Worker-84: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 13:44:51,388 [Worker-84: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 13:44:51,388 [Worker-84: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 13:44:51,388 [Worker-84: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 13:47:23,907 [Worker-88: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 13:47:23,907 [Worker-88: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 13:47:23,922 [Worker-88: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 13:47:23,922 [Worker-88: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 13:47:23,922 [Worker-88: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 13:47:37,402 [Worker-92: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 13:47:37,402 [Worker-92: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 13:47:37,402 [Worker-92: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 13:47:37,417 [Worker-92: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 13:47:37,417 [Worker-92: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 13:47:47,372 [Worker-93: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 13:47:47,372 [Worker-93: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 13:47:47,372 [Worker-93: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 13:47:47,372 [Worker-93: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 13:47:47,372 [Worker-93: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 13:48:15,323 [Worker-86: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 13:48:15,323 [Worker-86: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 13:48:15,323 [Worker-86: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 13:48:15,323 [Worker-86: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 13:48:15,323 [Worker-86: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 13:48:25,711 [Worker-93: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 13:48:25,711 [Worker-93: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 13:48:25,711 [Worker-93: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 13:48:25,727 [Worker-93: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 13:48:25,727 [Worker-93: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 13:48:35,259 [Worker-86: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 13:48:35,259 [Worker-86: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 13:48:35,259 [Worker-86: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 13:48:35,259 [Worker-86: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 13:48:35,259 [Worker-86: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 13:49:00,906 [Worker-86: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 13:49:00,906 [Worker-86: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 13:49:00,906 [Worker-86: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 13:49:00,906 [Worker-86: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 13:49:00,906 [Worker-86: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 13:54:32,931 [Worker-96: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 13:54:32,936 [Worker-96: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 13:54:32,942 [Worker-96: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 13:54:32,948 [Worker-96: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 13:54:32,948 [Worker-96: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 13:54:37,268 [Worker-94: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 13:54:37,270 [Worker-94: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 13:54:37,272 [Worker-94: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 13:54:37,276 [Worker-94: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 13:54:37,276 [Worker-94: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 13:54:53,114 [Worker-97: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 13:54:53,115 [Worker-97: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 13:54:53,118 [Worker-97: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 13:54:53,120 [Worker-97: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 13:54:53,120 [Worker-97: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 13:54:57,928 [Worker-98: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 13:54:57,930 [Worker-98: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 13:54:57,932 [Worker-98: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 13:54:57,935 [Worker-98: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 13:54:57,935 [Worker-98: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 13:55:14,705 [Worker-94: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 13:55:14,707 [Worker-94: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 13:55:14,710 [Worker-94: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 13:55:14,713 [Worker-94: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 13:55:14,713 [Worker-94: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 13:57:44,349 [Worker-88: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 13:57:44,349 [Worker-88: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 13:57:44,364 [Worker-88: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 13:57:44,364 [Worker-88: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 13:57:44,364 [Worker-88: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 14:02:06,224 [Worker-105: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 14:02:06,224 [Worker-105: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 14:02:06,224 [Worker-105: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 14:02:06,224 [Worker-105: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 14:02:06,224 [Worker-105: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 14:02:23,123 [Worker-106: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 14:02:23,123 [Worker-106: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 14:02:23,123 [Worker-106: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 14:02:23,123 [Worker-106: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 14:02:23,123 [Worker-106: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 14:02:45,527 [Worker-105: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 14:02:45,527 [Worker-105: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 14:02:45,527 [Worker-105: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 14:02:45,543 [Worker-105: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 14:02:45,543 [Worker-105: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 14:08:46,907 [Worker-112: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 14:08:46,909 [Worker-112: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 14:08:46,912 [Worker-112: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 14:08:46,914 [Worker-112: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 14:08:46,914 [Worker-112: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 14:12:05,022 [Worker-108: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 14:12:05,023 [Worker-108: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 14:12:05,026 [Worker-108: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 14:12:05,029 [Worker-108: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 14:12:05,029 [Worker-108: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 14:12:20,337 [Worker-115: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 14:12:20,339 [Worker-115: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 14:12:20,341 [Worker-115: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 14:12:20,344 [Worker-115: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 14:12:20,344 [Worker-115: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 14:12:32,625 [Worker-96: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 14:12:32,627 [Worker-96: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 14:12:32,629 [Worker-96: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 14:12:32,631 [Worker-96: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 14:12:32,632 [Worker-96: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 14:13:04,683 [Worker-96: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 14:13:04,685 [Worker-96: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 14:13:04,687 [Worker-96: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 14:13:04,689 [Worker-96: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 14:13:04,689 [Worker-96: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 14:14:36,425 [Worker-108: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 14:14:36,426 [Worker-108: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 14:14:36,429 [Worker-108: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 14:14:36,432 [Worker-108: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 14:14:36,432 [Worker-108: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 14:23:32,226 [Worker-124: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 14:23:32,227 [Worker-124: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 14:23:32,230 [Worker-124: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 14:23:32,233 [Worker-124: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 14:23:32,233 [Worker-124: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 14:24:46,829 [Worker-108: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 14:24:46,831 [Worker-108: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 14:24:46,833 [Worker-108: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 14:24:46,836 [Worker-108: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 14:24:46,836 [Worker-108: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 14:27:12,575 [Worker-131: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 14:27:12,576 [Worker-131: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 14:27:12,578 [Worker-131: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 14:27:12,581 [Worker-131: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 14:27:12,581 [Worker-131: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 14:28:27,080 [Worker-135: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 14:28:27,083 [Worker-135: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 14:28:27,085 [Worker-135: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 14:28:27,088 [Worker-135: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 14:28:27,088 [Worker-135: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 14:28:30,755 [Worker-108: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 14:28:30,757 [Worker-108: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 14:28:30,760 [Worker-108: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 14:28:30,763 [Worker-108: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 14:28:30,763 [Worker-108: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 14:28:44,773 [Worker-134: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 14:28:44,775 [Worker-134: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 14:28:44,777 [Worker-134: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 14:28:44,780 [Worker-134: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 14:28:44,780 [Worker-134: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 14:32:19,953 [Worker-139: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 14:32:19,955 [Worker-139: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 14:32:19,959 [Worker-139: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 14:32:19,962 [Worker-139: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 14:32:19,962 [Worker-139: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 14:33:10,033 [Worker-134: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 14:33:10,035 [Worker-134: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 14:33:10,038 [Worker-134: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 14:33:10,041 [Worker-134: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 14:33:10,041 [Worker-134: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 14:33:39,040 [Worker-134: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 14:33:39,041 [Worker-134: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 14:33:39,044 [Worker-134: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 14:33:39,046 [Worker-134: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 14:33:39,046 [Worker-134: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 14:34:15,310 [Worker-132: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 14:34:15,311 [Worker-132: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 14:34:15,314 [Worker-132: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 14:34:15,317 [Worker-132: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 14:34:15,317 [Worker-132: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 14:34:53,560 [Worker-140: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 14:34:53,562 [Worker-140: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 14:34:53,564 [Worker-140: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 14:34:53,566 [Worker-140: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 14:34:53,566 [Worker-140: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 14:37:31,784 [Worker-134: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 14:37:31,785 [Worker-134: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 14:37:31,788 [Worker-134: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 14:37:31,791 [Worker-134: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 14:37:31,791 [Worker-134: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 14:38:03,096 [Worker-134: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 14:38:03,098 [Worker-134: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 14:38:03,100 [Worker-134: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 14:38:03,102 [Worker-134: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 14:38:03,103 [Worker-134: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 14:38:47,293 [Worker-138: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 14:38:47,294 [Worker-138: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 14:38:47,297 [Worker-138: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 14:38:47,300 [Worker-138: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 14:38:47,300 [Worker-138: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 14:39:16,301 [Worker-134: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 14:39:16,303 [Worker-134: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 14:39:16,305 [Worker-134: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 14:39:16,307 [Worker-134: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 14:39:16,308 [Worker-134: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 14:40:00,010 [Worker-139: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 14:40:00,012 [Worker-139: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 14:40:00,014 [Worker-139: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 14:40:00,017 [Worker-139: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 14:40:00,017 [Worker-139: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 14:41:12,017 [Worker-145: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 14:41:12,019 [Worker-145: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 14:41:12,021 [Worker-145: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 14:41:12,024 [Worker-145: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 14:41:12,024 [Worker-145: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 14:43:23,675 [Worker-134: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 14:43:23,677 [Worker-134: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 14:43:23,680 [Worker-134: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 14:43:23,682 [Worker-134: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 14:43:23,682 [Worker-134: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 14:43:30,120 [Worker-134: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 14:43:30,122 [Worker-134: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 14:43:30,124 [Worker-134: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 14:43:30,127 [Worker-134: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 14:43:30,127 [Worker-134: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 14:44:20,340 [Worker-147: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 14:44:20,342 [Worker-147: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 14:44:20,345 [Worker-147: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 14:44:20,348 [Worker-147: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 14:44:20,348 [Worker-147: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 14:46:56,640 [Worker-150: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 14:46:56,642 [Worker-150: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 14:46:56,644 [Worker-150: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 14:46:56,647 [Worker-150: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 14:46:56,647 [Worker-150: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 14:51:41,501 [Worker-156: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 14:51:41,503 [Worker-156: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 14:51:41,507 [Worker-156: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 14:51:41,509 [Worker-156: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 14:51:41,510 [Worker-156: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 14:52:34,811 [Worker-160: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 14:52:34,812 [Worker-160: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 14:52:34,815 [Worker-160: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 14:52:34,817 [Worker-160: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 14:52:34,817 [Worker-160: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 14:57:32,507 [Worker-163: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 14:57:32,509 [Worker-163: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 14:57:32,512 [Worker-163: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 14:57:32,514 [Worker-163: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 14:57:32,514 [Worker-163: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 14:58:33,299 [Worker-166: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 14:58:33,300 [Worker-166: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 14:58:33,304 [Worker-166: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 14:58:33,306 [Worker-166: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 14:58:33,307 [Worker-166: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 15:00:28,371 [Worker-156: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 15:00:28,373 [Worker-156: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 15:00:28,375 [Worker-156: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 15:00:28,378 [Worker-156: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 15:00:28,378 [Worker-156: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 15:03:17,198 [Worker-167: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 15:03:17,200 [Worker-167: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 15:03:17,203 [Worker-167: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 15:03:17,205 [Worker-167: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 15:03:17,205 [Worker-167: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 15:05:00,895 [Worker-171: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 15:05:00,897 [Worker-171: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 15:05:00,900 [Worker-171: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 15:05:00,903 [Worker-171: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 15:05:00,903 [Worker-171: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 15:05:07,213 [Worker-174: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 15:05:07,215 [Worker-174: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 15:05:07,218 [Worker-174: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 15:05:07,221 [Worker-174: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 15:05:07,221 [Worker-174: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 15:16:37,302 [Worker-176: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 15:16:37,304 [Worker-176: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 15:16:37,306 [Worker-176: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 15:16:37,308 [Worker-176: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 15:16:37,308 [Worker-176: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 15:24:58,118 [Worker-172: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 15:24:58,119 [Worker-172: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 15:24:58,122 [Worker-172: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 15:24:58,124 [Worker-172: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 15:24:58,124 [Worker-172: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 15:26:37,515 [Worker-172: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 15:26:37,517 [Worker-172: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 15:26:37,519 [Worker-172: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 15:26:37,523 [Worker-172: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 15:26:37,523 [Worker-172: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 15:27:41,748 [Worker-181: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 15:27:41,750 [Worker-181: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 15:27:41,753 [Worker-181: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 15:27:41,756 [Worker-181: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 15:27:41,756 [Worker-181: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 15:28:24,744 [Worker-180: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 15:28:24,746 [Worker-180: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 15:28:24,748 [Worker-180: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 15:28:24,751 [Worker-180: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 15:28:24,751 [Worker-180: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 15:28:45,242 [Worker-187: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 15:28:45,244 [Worker-187: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 15:28:45,246 [Worker-187: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 15:28:45,248 [Worker-187: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 15:28:45,248 [Worker-187: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 15:29:11,612 [Worker-186: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 15:29:11,614 [Worker-186: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 15:29:11,616 [Worker-186: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 15:29:11,619 [Worker-186: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 15:29:11,619 [Worker-186: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 15:40:56,367 [Worker-190: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 15:40:56,369 [Worker-190: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 15:40:56,371 [Worker-190: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 15:40:56,374 [Worker-190: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 15:40:56,374 [Worker-190: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 15:42:50,599 [Worker-194: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 15:42:50,602 [Worker-194: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 15:42:50,605 [Worker-194: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 15:42:50,607 [Worker-194: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 15:42:50,607 [Worker-194: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 15:45:50,999 [Worker-172: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 15:45:51,000 [Worker-172: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 15:45:51,003 [Worker-172: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 15:45:51,005 [Worker-172: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 15:45:51,006 [Worker-172: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 15:51:45,987 [Worker-199: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 15:51:45,990 [Worker-199: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 15:51:45,993 [Worker-199: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 15:51:45,995 [Worker-199: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 15:51:45,995 [Worker-199: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 15:53:01,779 [Worker-172: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 15:53:01,781 [Worker-172: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 15:53:01,783 [Worker-172: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 15:53:01,786 [Worker-172: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 15:53:01,786 [Worker-172: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 15:53:17,231 [Worker-204: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 15:53:17,234 [Worker-204: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 15:53:17,236 [Worker-204: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 15:53:17,238 [Worker-204: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 15:53:17,238 [Worker-204: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 15:58:22,053 [Worker-172: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 15:58:22,055 [Worker-172: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 15:58:22,057 [Worker-172: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 15:58:22,060 [Worker-172: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 15:58:22,060 [Worker-172: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 15:59:08,841 [Worker-213: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 15:59:08,844 [Worker-213: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 15:59:08,847 [Worker-213: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 15:59:08,849 [Worker-213: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 15:59:08,849 [Worker-213: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 16:00:00,243 [Worker-210: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 16:00:00,245 [Worker-210: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 16:00:00,248 [Worker-210: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 16:00:00,251 [Worker-210: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 16:00:00,251 [Worker-210: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 16:00:18,342 [Worker-214: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 16:00:18,344 [Worker-214: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 16:00:18,347 [Worker-214: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 16:00:18,349 [Worker-214: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 16:00:18,349 [Worker-214: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 16:01:25,807 [Worker-172: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 16:01:25,808 [Worker-172: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 16:01:25,811 [Worker-172: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 16:01:25,813 [Worker-172: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 16:01:25,813 [Worker-172: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 16:01:44,420 [Worker-207: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 16:01:44,423 [Worker-207: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 16:01:44,426 [Worker-207: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 16:01:44,429 [Worker-207: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 16:01:44,429 [Worker-207: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 16:01:52,643 [Worker-214: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 16:01:52,644 [Worker-214: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 16:01:52,647 [Worker-214: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 16:01:52,649 [Worker-214: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 16:01:52,649 [Worker-214: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 16:05:14,784 [Worker-172: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 16:05:14,786 [Worker-172: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 16:05:14,788 [Worker-172: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 16:05:14,791 [Worker-172: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 16:05:14,791 [Worker-172: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 16:05:20,398 [Worker-207: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 16:05:20,400 [Worker-207: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 16:05:20,403 [Worker-207: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 16:05:20,404 [Worker-207: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 16:05:20,404 [Worker-207: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 16:08:41,667 [Worker-218: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 16:08:41,669 [Worker-218: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 16:08:41,672 [Worker-218: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 16:08:41,674 [Worker-218: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 16:08:41,674 [Worker-218: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 16:20:20,031 [Worker-226: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 16:20:20,033 [Worker-226: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 16:20:20,036 [Worker-226: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 16:20:20,039 [Worker-226: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 16:20:20,039 [Worker-226: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 17:12:54,071 [Worker-235: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 17:12:54,072 [Worker-235: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 17:12:54,075 [Worker-235: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 17:12:54,077 [Worker-235: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 17:12:54,078 [Worker-235: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 17:20:09,210 [Worker-244: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 17:20:09,211 [Worker-244: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 17:20:09,214 [Worker-244: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 17:20:09,216 [Worker-244: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 17:20:09,216 [Worker-244: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 17:23:12,255 [Worker-246: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 17:23:12,256 [Worker-246: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 17:23:12,259 [Worker-246: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 17:23:12,262 [Worker-246: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 17:23:12,262 [Worker-246: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 17:25:11,050 [Worker-244: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 17:25:11,052 [Worker-244: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 17:25:11,054 [Worker-244: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 17:25:11,057 [Worker-244: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 17:25:11,057 [Worker-244: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 17:27:15,938 [Worker-246: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 17:27:15,939 [Worker-246: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 17:27:15,942 [Worker-246: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 17:27:15,944 [Worker-246: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 17:27:15,944 [Worker-246: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 17:27:23,507 [Worker-241: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 17:27:23,508 [Worker-241: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 17:27:23,511 [Worker-241: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 17:27:23,514 [Worker-241: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 17:27:23,514 [Worker-241: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 17:31:12,608 [Worker-257: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 17:31:12,610 [Worker-257: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 17:31:12,612 [Worker-257: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 17:31:12,615 [Worker-257: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 17:31:12,615 [Worker-257: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 17:35:14,225 [Worker-261: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 17:35:14,226 [Worker-261: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 17:35:14,229 [Worker-261: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 17:35:14,231 [Worker-261: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 17:35:14,231 [Worker-261: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 17:35:16,820 [Worker-262: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 17:35:16,821 [Worker-262: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 17:35:16,824 [Worker-262: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 17:35:16,827 [Worker-262: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 17:35:16,827 [Worker-262: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 17:37:05,138 [Worker-264: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 17:37:05,139 [Worker-264: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 17:37:05,142 [Worker-264: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 17:37:05,144 [Worker-264: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 17:37:05,144 [Worker-264: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 17:40:19,732 [Worker-246: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 17:40:19,734 [Worker-246: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 17:40:19,736 [Worker-246: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 17:40:19,739 [Worker-246: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 17:40:19,739 [Worker-246: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 17:40:21,889 [Worker-246: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 17:40:21,891 [Worker-246: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 17:40:21,894 [Worker-246: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 17:40:21,896 [Worker-246: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 17:40:21,896 [Worker-246: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 17:40:57,999 [Worker-246: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 17:40:58,001 [Worker-246: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 17:40:58,004 [Worker-246: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 17:40:58,007 [Worker-246: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 17:40:58,007 [Worker-246: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 17:41:53,625 [Worker-268: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 17:41:53,626 [Worker-268: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 17:41:53,629 [Worker-268: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 17:41:53,631 [Worker-268: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 17:41:53,631 [Worker-268: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 17:43:21,763 [Worker-269: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 17:43:21,765 [Worker-269: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 17:43:21,767 [Worker-269: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 17:43:21,770 [Worker-269: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 17:43:21,770 [Worker-269: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 17:43:56,749 [Worker-270: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 17:43:56,751 [Worker-270: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 17:43:56,754 [Worker-270: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 17:43:56,757 [Worker-270: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 17:43:56,757 [Worker-270: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 17:44:32,895 [Worker-269: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 17:44:32,897 [Worker-269: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 17:44:32,900 [Worker-269: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 17:44:32,902 [Worker-269: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 17:44:32,902 [Worker-269: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 17:45:48,937 [Worker-246: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 17:45:48,939 [Worker-246: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 17:45:48,941 [Worker-246: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 17:45:48,943 [Worker-246: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 17:45:48,943 [Worker-246: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 17:46:23,784 [Worker-246: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 17:46:23,785 [Worker-246: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 17:46:23,788 [Worker-246: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 17:46:23,791 [Worker-246: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 17:46:23,791 [Worker-246: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-20 17:48:34,670 [Worker-269: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 17:48:34,672 [Worker-269: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-20 17:48:34,675 [Worker-269: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-20 17:48:34,677 [Worker-269: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-20 17:48:34,677 [Worker-269: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-21 08:33:57,431 [Worker-3: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-02-21 08:34:04,618 [Worker-14: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 08:34:04,626 [Worker-14: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-21 08:34:04,650 [Worker-14: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-21 08:34:04,654 [Worker-14: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 08:34:04,654 [Worker-14: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-21 08:52:05,814 [Worker-23: Resolving model org.eclipse.recommenders:index::zip:0.0.0] WARN  o.e.r.models.ModelRepository - Failed to download org.eclipse.recommenders:index::zip:0.0.0
+org.eclipse.aether.resolution.ArtifactResolutionException: Could not find artifact org.eclipse.recommenders:index:zip:0.0.0-SNAPSHOT in models (http://download.eclipse.org/recommenders/models/photon/)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:453) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:255) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifact(DefaultArtifactResolver.java:232) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveArtifact(DefaultRepositorySystem.java:303) ~[na:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolveInternal(ModelRepository.java:193) [org.eclipse.recommenders.models_2.5.4.v20180909-1132.jar:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolve(ModelRepository.java:172) [org.eclipse.recommenders.models_2.5.4.v20180909-1132.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.EclipseModelRepository.resolve(EclipseModelRepository.java:168) [org.eclipse.recommenders.models.rcp_2.5.4.v20180909-1132.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.DownloadModelArchiveJob.run(DownloadModelArchiveJob.java:76) [org.eclipse.recommenders.models.rcp_2.5.4.v20180909-1132.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) [org.eclipse.core.jobs_3.10.100.v20180817-1215.jar:na]
+Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find artifact org.eclipse.recommenders:index:zip:0.0.0-SNAPSHOT in models (http://download.eclipse.org/recommenders/models/photon/)
+	at org.eclipse.aether.connector.basic.ArtifactTransportListener.transferFailed(ArtifactTransportListener.java:48) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$TaskRunner.run(BasicRepositoryConnector.java:364) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.util.concurrency.RunnableErrorForwarder$1.run(RunnableErrorForwarder.java:76) ~[na:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$DirectExecutor.execute(BasicRepositoryConnector.java:590) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector.get(BasicRepositoryConnector.java:258) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:529) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:430) ~[na:na]
+	... 8 common frames omitted
+2020-02-21 08:52:16,503 [Worker-27: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 08:52:16,506 [Worker-27: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-21 08:52:16,509 [Worker-27: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-21 08:52:16,512 [Worker-27: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 08:52:16,512 [Worker-27: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-21 08:56:20,564 [Worker-12: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 08:56:20,566 [Worker-12: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-21 08:56:20,569 [Worker-12: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-21 08:56:20,572 [Worker-12: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 08:56:20,572 [Worker-12: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-21 08:57:21,189 [Worker-18: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 08:57:21,191 [Worker-18: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-21 08:57:21,193 [Worker-18: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-21 08:57:21,196 [Worker-18: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 08:57:21,196 [Worker-18: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-21 08:59:22,586 [Worker-20: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 08:59:22,588 [Worker-20: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-21 08:59:22,590 [Worker-20: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-21 08:59:22,593 [Worker-20: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 08:59:22,593 [Worker-20: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-21 09:08:21,462 [Worker-30: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 09:08:21,462 [Worker-30: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-21 09:08:21,477 [Worker-30: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-21 09:08:21,477 [Worker-30: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 09:08:21,477 [Worker-30: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-21 09:09:36,023 [Worker-32: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 09:09:36,023 [Worker-32: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-21 09:09:36,023 [Worker-32: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-21 09:09:36,023 [Worker-32: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 09:09:36,023 [Worker-32: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-21 09:17:06,255 [Worker-36: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 09:17:06,255 [Worker-36: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-21 09:17:06,255 [Worker-36: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-21 09:17:06,255 [Worker-36: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 09:17:06,255 [Worker-36: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-21 09:17:27,429 [Worker-35: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 09:17:27,429 [Worker-35: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-21 09:17:27,429 [Worker-35: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-21 09:17:27,445 [Worker-35: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 09:17:27,445 [Worker-35: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-21 09:21:38,022 [Worker-40: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 09:21:38,022 [Worker-40: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-21 09:21:38,037 [Worker-40: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-21 09:21:38,037 [Worker-40: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 09:21:38,037 [Worker-40: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-21 09:21:56,566 [Worker-41: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 09:21:56,566 [Worker-41: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-21 09:21:56,566 [Worker-41: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-21 09:21:56,566 [Worker-41: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 09:21:56,566 [Worker-41: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-21 09:36:03,949 [Worker-50: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 09:36:03,951 [Worker-50: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-21 09:36:03,955 [Worker-50: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-21 09:36:03,960 [Worker-50: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 09:36:03,960 [Worker-50: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-21 09:38:14,612 [Worker-55: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 09:38:14,613 [Worker-55: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-21 09:38:14,617 [Worker-55: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-21 09:38:14,619 [Worker-55: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 09:38:14,619 [Worker-55: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-21 09:49:11,191 [Worker-64: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 09:49:11,191 [Worker-64: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-21 09:49:11,191 [Worker-64: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-21 09:49:11,191 [Worker-64: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 09:49:11,191 [Worker-64: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-21 10:39:09,121 [Worker-95: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 10:39:09,121 [Worker-95: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-21 10:39:09,121 [Worker-95: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-21 10:39:09,121 [Worker-95: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 10:39:09,121 [Worker-95: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-21 10:39:33,202 [Worker-1: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-02-21 10:39:38,765 [Worker-11: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 10:39:38,771 [Worker-11: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-21 10:39:38,793 [Worker-11: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-21 10:39:38,798 [Worker-11: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 10:39:38,798 [Worker-11: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-21 10:51:04,761 [Worker-13: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 10:51:04,767 [Worker-13: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-21 10:51:04,770 [Worker-13: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-21 10:51:04,773 [Worker-13: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 10:51:04,773 [Worker-13: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-21 10:55:34,130 [Worker-7: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 10:55:34,131 [Worker-7: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-21 10:55:34,135 [Worker-7: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-21 10:55:34,137 [Worker-7: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 10:55:34,137 [Worker-7: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-21 11:02:53,482 [Worker-26: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 11:02:53,483 [Worker-26: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-21 11:02:53,487 [Worker-26: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-21 11:02:53,489 [Worker-26: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 11:02:53,489 [Worker-26: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-21 11:03:13,610 [Worker-27: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 11:03:13,613 [Worker-27: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-21 11:03:13,617 [Worker-27: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-21 11:03:13,621 [Worker-27: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 11:03:13,621 [Worker-27: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-21 11:04:03,158 [Worker-28: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 11:04:03,160 [Worker-28: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-21 11:04:03,166 [Worker-28: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-21 11:04:03,170 [Worker-28: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 11:04:03,171 [Worker-28: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-21 11:42:31,786 [Worker-59: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 11:42:31,786 [Worker-59: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-21 11:42:31,786 [Worker-59: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-21 11:42:31,786 [Worker-59: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 11:42:31,786 [Worker-59: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-21 11:44:34,071 [Worker-44: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 11:44:34,071 [Worker-44: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-21 11:44:34,071 [Worker-44: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-21 11:44:34,071 [Worker-44: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 11:44:34,071 [Worker-44: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-21 11:45:32,358 [Worker-62: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 11:45:32,358 [Worker-62: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-21 11:45:32,358 [Worker-62: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-21 11:45:32,358 [Worker-62: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 11:45:32,358 [Worker-62: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-21 11:54:24,758 [Worker-67: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 11:54:24,758 [Worker-67: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-21 11:54:24,758 [Worker-67: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-21 11:54:24,773 [Worker-67: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 11:54:24,773 [Worker-67: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-21 11:56:37,756 [Worker-74: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 11:56:37,756 [Worker-74: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-21 11:56:37,756 [Worker-74: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-21 11:56:37,756 [Worker-74: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 11:56:37,756 [Worker-74: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-21 11:59:46,143 [Worker-69: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 11:59:46,143 [Worker-69: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-21 11:59:46,143 [Worker-69: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-21 11:59:46,159 [Worker-69: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 11:59:46,159 [Worker-69: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-21 12:00:12,658 [Worker-73: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 12:00:12,673 [Worker-73: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-21 12:00:12,673 [Worker-73: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-21 12:00:12,673 [Worker-73: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 12:00:12,673 [Worker-73: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-21 12:00:14,863 [Worker-73: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 12:00:14,863 [Worker-73: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-21 12:00:14,863 [Worker-73: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-21 12:00:14,863 [Worker-73: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 12:00:14,863 [Worker-73: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-21 13:09:08,667 [Worker-87: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 13:09:08,667 [Worker-87: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-21 13:09:08,667 [Worker-87: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-21 13:09:08,683 [Worker-87: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 13:09:08,683 [Worker-87: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-21 13:13:03,958 [Worker-90: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 13:13:03,958 [Worker-90: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-21 13:13:03,958 [Worker-90: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-21 13:13:03,958 [Worker-90: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 13:13:03,958 [Worker-90: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-21 13:13:50,174 [Worker-92: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 13:13:50,176 [Worker-92: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-21 13:13:50,179 [Worker-92: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-21 13:13:50,181 [Worker-92: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 13:13:50,181 [Worker-92: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-21 13:17:36,618 [Worker-89: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 13:17:36,618 [Worker-89: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-21 13:17:36,634 [Worker-89: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-21 13:17:36,634 [Worker-89: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 13:17:36,634 [Worker-89: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-21 13:18:50,825 [Worker-95: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 13:18:50,827 [Worker-95: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-21 13:18:50,829 [Worker-95: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-21 13:18:50,832 [Worker-95: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 13:18:50,832 [Worker-95: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-21 13:23:09,789 [Worker-101: Resolving model org.eclipse.recommenders:index::zip:0.0.0] WARN  o.e.r.models.ModelRepository - Failed to download org.eclipse.recommenders:index::zip:0.0.0
+org.eclipse.aether.resolution.ArtifactResolutionException: Could not find artifact org.eclipse.recommenders:index:zip:0.0.0-SNAPSHOT in models (http://download.eclipse.org/recommenders/models/photon/)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:453) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:255) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifact(DefaultArtifactResolver.java:232) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveArtifact(DefaultRepositorySystem.java:303) ~[na:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolveInternal(ModelRepository.java:193) [org.eclipse.recommenders.models_2.5.4.v20180909-1132.jar:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolve(ModelRepository.java:172) [org.eclipse.recommenders.models_2.5.4.v20180909-1132.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.EclipseModelRepository.resolve(EclipseModelRepository.java:168) [org.eclipse.recommenders.models.rcp_2.5.4.v20180909-1132.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.DownloadModelArchiveJob.run(DownloadModelArchiveJob.java:76) [org.eclipse.recommenders.models.rcp_2.5.4.v20180909-1132.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) [org.eclipse.core.jobs_3.10.100.v20180817-1215.jar:na]
+Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find artifact org.eclipse.recommenders:index:zip:0.0.0-SNAPSHOT in models (http://download.eclipse.org/recommenders/models/photon/)
+	at org.eclipse.aether.connector.basic.ArtifactTransportListener.transferFailed(ArtifactTransportListener.java:48) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$TaskRunner.run(BasicRepositoryConnector.java:364) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.util.concurrency.RunnableErrorForwarder$1.run(RunnableErrorForwarder.java:76) ~[na:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$DirectExecutor.execute(BasicRepositoryConnector.java:590) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector.get(BasicRepositoryConnector.java:258) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:529) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:430) ~[na:na]
+	... 8 common frames omitted
+2020-02-21 13:30:03,925 [Worker-103: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 13:30:03,927 [Worker-103: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-21 13:30:03,931 [Worker-103: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-21 13:30:03,936 [Worker-103: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 13:30:03,937 [Worker-103: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-21 13:30:09,506 [Worker-104: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 13:30:09,508 [Worker-104: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-21 13:30:09,510 [Worker-104: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-21 13:30:09,513 [Worker-104: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 13:30:09,514 [Worker-104: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-21 13:32:13,402 [Worker-98: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 13:32:13,402 [Worker-98: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-21 13:32:13,402 [Worker-98: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-21 13:32:13,418 [Worker-98: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 13:32:13,418 [Worker-98: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-21 13:36:23,277 [Worker-94: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 13:36:23,277 [Worker-94: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-21 13:36:23,293 [Worker-94: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-21 13:36:23,293 [Worker-94: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 13:36:23,293 [Worker-94: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-21 13:36:40,635 [Worker-103: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 13:36:40,635 [Worker-103: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-21 13:36:40,651 [Worker-103: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-21 13:36:40,651 [Worker-103: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 13:36:40,651 [Worker-103: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-21 13:38:39,477 [Worker-107: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 13:38:39,479 [Worker-107: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-21 13:38:39,482 [Worker-107: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-21 13:38:39,485 [Worker-107: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 13:38:39,485 [Worker-107: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-21 13:38:44,007 [Worker-111: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 13:38:44,007 [Worker-111: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-21 13:38:44,007 [Worker-111: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-21 13:38:44,007 [Worker-111: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 13:38:44,007 [Worker-111: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-21 13:39:41,227 [Worker-112: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 13:39:41,229 [Worker-112: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-21 13:39:41,231 [Worker-112: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-21 13:39:41,234 [Worker-112: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 13:39:41,234 [Worker-112: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-21 13:39:50,557 [Worker-109: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 13:39:50,557 [Worker-109: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-21 13:39:50,573 [Worker-109: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-21 13:39:50,573 [Worker-109: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 13:39:50,573 [Worker-109: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-21 13:39:56,631 [Worker-110: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 13:39:56,633 [Worker-110: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-21 13:39:56,635 [Worker-110: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-21 13:39:56,638 [Worker-110: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 13:39:56,638 [Worker-110: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-21 13:46:43,567 [Worker-111: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 13:46:43,567 [Worker-111: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-21 13:46:43,567 [Worker-111: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-21 13:46:43,567 [Worker-111: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 13:46:43,583 [Worker-111: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-21 13:47:49,259 [Worker-115: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 13:47:49,259 [Worker-115: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-21 13:47:49,274 [Worker-115: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-21 13:47:49,274 [Worker-115: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 13:47:49,274 [Worker-115: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-21 13:48:06,371 [Worker-115: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 13:48:06,371 [Worker-115: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-21 13:48:06,371 [Worker-115: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-21 13:48:06,371 [Worker-115: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 13:48:06,371 [Worker-115: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-21 13:48:10,706 [Worker-118: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 13:48:10,706 [Worker-118: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-21 13:48:10,706 [Worker-118: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-21 13:48:10,706 [Worker-118: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 13:48:10,706 [Worker-118: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-21 13:48:11,776 [Worker-113: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 13:48:11,776 [Worker-113: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-21 13:48:11,776 [Worker-113: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-21 13:48:11,776 [Worker-113: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 13:48:11,776 [Worker-113: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-21 13:48:31,435 [Worker-111: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 13:48:31,451 [Worker-111: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-21 13:48:31,451 [Worker-111: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-21 13:48:31,451 [Worker-111: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 13:48:31,451 [Worker-111: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-21 13:52:23,434 [Worker-121: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 13:52:23,436 [Worker-121: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-21 13:52:23,439 [Worker-121: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-21 13:52:23,441 [Worker-121: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 13:52:23,442 [Worker-121: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-21 13:52:42,403 [Worker-116: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 13:52:42,403 [Worker-116: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-21 13:52:42,403 [Worker-116: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-21 13:52:42,403 [Worker-116: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 13:52:42,403 [Worker-116: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-21 13:54:57,892 [Worker-116: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 13:54:57,894 [Worker-116: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-21 13:54:57,896 [Worker-116: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-21 13:54:57,899 [Worker-116: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 13:54:57,899 [Worker-116: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-21 14:00:35,588 [Worker-126: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 14:00:35,588 [Worker-126: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-21 14:00:35,588 [Worker-126: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-21 14:00:35,588 [Worker-126: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 14:00:35,588 [Worker-126: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-21 15:45:46,454 [Worker-7: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-02-21 15:45:57,180 [Worker-7: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 15:45:57,185 [Worker-7: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-21 15:45:57,211 [Worker-7: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-21 15:45:57,217 [Worker-7: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 15:45:57,217 [Worker-7: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-21 16:03:30,208 [Worker-20: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 16:03:30,208 [Worker-20: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-21 16:03:30,208 [Worker-20: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-21 16:03:30,223 [Worker-20: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 16:03:30,223 [Worker-20: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-21 16:08:25,130 [Worker-24: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 16:08:25,130 [Worker-24: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-21 16:08:25,130 [Worker-24: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-21 16:08:25,130 [Worker-24: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 16:08:25,130 [Worker-24: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-21 16:09:42,488 [Worker-28: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 16:09:42,488 [Worker-28: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-21 16:09:42,504 [Worker-28: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-21 16:09:42,504 [Worker-28: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 16:09:42,504 [Worker-28: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-21 16:09:54,857 [Worker-29: Resolving model org.eclipse.recommenders:index::zip:0.0.0] WARN  o.e.r.models.ModelRepository - Failed to download org.eclipse.recommenders:index::zip:0.0.0
+org.eclipse.aether.resolution.ArtifactResolutionException: Could not find artifact org.eclipse.recommenders:index:zip:0.0.0-SNAPSHOT in models (http://download.eclipse.org/recommenders/models/photon/)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:453) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:255) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifact(DefaultArtifactResolver.java:232) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveArtifact(DefaultRepositorySystem.java:303) ~[na:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolveInternal(ModelRepository.java:193) [org.eclipse.recommenders.models_2.5.4.v20180909-1132.jar:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolve(ModelRepository.java:172) [org.eclipse.recommenders.models_2.5.4.v20180909-1132.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.EclipseModelRepository.resolve(EclipseModelRepository.java:168) [org.eclipse.recommenders.models.rcp_2.5.4.v20180909-1132.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.DownloadModelArchiveJob.run(DownloadModelArchiveJob.java:76) [org.eclipse.recommenders.models.rcp_2.5.4.v20180909-1132.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) [org.eclipse.core.jobs_3.10.100.v20180817-1215.jar:na]
+Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find artifact org.eclipse.recommenders:index:zip:0.0.0-SNAPSHOT in models (http://download.eclipse.org/recommenders/models/photon/)
+	at org.eclipse.aether.connector.basic.ArtifactTransportListener.transferFailed(ArtifactTransportListener.java:48) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$TaskRunner.run(BasicRepositoryConnector.java:364) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.util.concurrency.RunnableErrorForwarder$1.run(RunnableErrorForwarder.java:76) ~[na:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$DirectExecutor.execute(BasicRepositoryConnector.java:590) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector.get(BasicRepositoryConnector.java:258) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:529) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:430) ~[na:na]
+	... 8 common frames omitted
+2020-02-21 16:10:02,266 [Worker-32: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 16:10:02,266 [Worker-32: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-21 16:10:02,282 [Worker-32: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-21 16:10:02,282 [Worker-32: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 16:10:02,282 [Worker-32: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-21 16:39:49,692 [Worker-62: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 16:39:49,692 [Worker-62: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-21 16:39:49,692 [Worker-62: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-21 16:39:49,707 [Worker-62: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 16:39:49,707 [Worker-62: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-21 16:40:01,416 [Worker-61: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 16:40:01,418 [Worker-61: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-21 16:40:01,420 [Worker-61: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-21 16:40:01,423 [Worker-61: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 16:40:01,424 [Worker-61: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-21 16:41:12,823 [Worker-65: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 16:41:12,823 [Worker-65: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-21 16:41:12,823 [Worker-65: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-21 16:41:12,838 [Worker-65: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 16:41:12,838 [Worker-65: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-21 16:45:42,006 [Worker-67: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 16:45:42,006 [Worker-67: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-21 16:45:42,006 [Worker-67: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-21 16:45:42,006 [Worker-67: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 16:45:42,006 [Worker-67: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-21 16:46:35,335 [Worker-69: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 16:46:35,335 [Worker-69: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-21 16:46:35,335 [Worker-69: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-21 16:46:35,335 [Worker-69: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 16:46:35,335 [Worker-69: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-21 16:49:56,461 [Worker-67: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 16:49:56,461 [Worker-67: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-21 16:49:56,461 [Worker-67: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-21 16:49:56,477 [Worker-67: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 16:49:56,477 [Worker-67: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-21 16:50:28,905 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2020-02-21 16:52:33,041 [Worker-69: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 16:52:33,056 [Worker-69: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-21 16:52:33,057 [Worker-69: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-21 16:52:33,057 [Worker-69: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 16:52:33,057 [Worker-69: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-21 16:53:38,784 [Worker-71: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 16:53:38,784 [Worker-71: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-21 16:53:38,784 [Worker-71: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-21 16:53:38,800 [Worker-71: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 16:53:38,800 [Worker-71: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-21 16:56:38,532 [Worker-69: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 16:56:38,532 [Worker-69: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-21 16:56:38,548 [Worker-69: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-21 16:56:38,548 [Worker-69: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 16:56:38,548 [Worker-69: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-21 16:59:20,351 [Worker-81: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 16:59:20,367 [Worker-81: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-21 16:59:20,367 [Worker-81: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-21 16:59:20,367 [Worker-81: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 16:59:20,367 [Worker-81: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-21 17:41:44,097 [Worker-102: ワークスペースをビルド中] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:demo:0.0.1-SNAPSHOT @ C:\Users\trainee01\gitRepository2\demo\pom.xml.
+2020-02-21 17:41:45,662 [Worker-102: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 17:41:45,662 [Worker-102: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-21 17:41:45,678 [Worker-102: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-21 17:41:45,693 [Worker-102: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 17:41:45,693 [Worker-102: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-21 17:41:48,331 [Worker-102: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 17:41:48,333 [Worker-102: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-21 17:41:48,336 [Worker-102: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-21 17:41:48,339 [Worker-102: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 17:41:48,339 [Worker-102: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-21 17:43:12,555 [Worker-101: ワークスペースをビルド中] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:demo:0.0.1-SNAPSHOT @ C:\Users\trainee01\gitRepository2\demo\pom.xml.
+2020-02-21 17:43:13,817 [Worker-101: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 17:43:13,833 [Worker-101: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-02-21 17:43:13,833 [Worker-101: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-02-21 17:43:13,833 [Worker-101: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 17:43:13,833 [Worker-101: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-21 17:43:16,181 [Worker-99: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 17:43:16,183 [Worker-99: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-21 17:43:16,211 [Worker-99: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-21 17:43:16,215 [Worker-99: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 17:43:16,216 [Worker-99: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources
+2020-02-21 17:43:59,818 [Worker-96: ワークスペースをビルド中] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:demo:0.0.1-SNAPSHOT @ C:\Users\trainee01\gitRepository2\demo\pom.xml.
+2020-02-21 17:44:01,085 [Worker-96: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 17:44:01,085 [Worker-96: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-21 17:44:01,116 [Worker-96: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-02-21 17:44:01,116 [Worker-96: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-21 17:44:01,116 [Worker-96: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\trainee01\gitRepository2\demo\src\test\resources

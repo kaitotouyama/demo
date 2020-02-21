@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org"
+	xmlns:sec="http://www.thymeleaf.org/thymeleaf-extras-springsecurity">
+<head>
+<meta charset="UTF-8">
+<title>新規登録</title>
+</head>
+<body>
+	<form th:action="@{/Account}" action="/Account"
+		th:object="${accountForm}" method="post">
+		<div class="centering_item">
+			<h1>ユーザー登録</h1>
+
+			<div th:classappend="${#fields.hasErrors('username')}? 'has-error'">
+				<label for="username">名前</label>
+
+				<div>
+					<input id="username" type="text" th:field="*{username}"
+						name="username" required /> <span class="errormessage"
+						th:if="${#fields.hasErrors('username')}" th:errors="*{username}">error!</span>
+				</div>
+			</div>
+
+			<div th:classappend="${#fields.hasErrors('password')}? 'has-error'">
+				<label for="password">パスワード</label>
+
+				<div>
+					<input id="password" type="password" th:field="*{password}"
+						name="password" required /> <span class="errormessage"
+						th:if="${#fields.hasErrors('password')}" th:errors="*{password}">error!</span>
+					<input class="btn-square" type="submit" value="新規登録" />
+				</div>
+			</div>
+	</form>
+</body>
+</html>

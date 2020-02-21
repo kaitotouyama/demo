@@ -1,0 +1,45 @@
+package com.example.demo.service;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.security.core.userdetails.UserDetails;
+import org.springframework.security.core.userdetails.UserDetailsService;
+import org.springframework.security.core.userdetails.UsernameNotFoundException;
+import org.springframework.stereotype.Service;
+
+import com.example.dao.UserDao;
+import com.example.entity.LoginUser;
+
+
+
+@Service
+public class UserDetailsServiceImpl implements UserDetailsService{
+
+    //DBからユーザ情報を検索するメソッドを実装したクラス
+    @Autowired
+    private UserDao userDao;
+
+    @Override
+    public UserDetails loadUserByUsername(String username) throws UsernameNotFoundException {
+
+        LoginUser user = userDao.findUser(username);
+
+        if (user == null || user.getIsStop() == 0) {
+            throw new UsernameNotFoundException("User" + username + "was not found in the database");
+        }
+         //rawDataのパスワードは渡すことができないので、暗号化
+
+
+        return user;
+    }
+
+    public List<LoginUser> get() {
+        return userDao.selectAll();
+    }
+
+    public LoginUser getuser(int id) {
+        return userDao.select(id);
+    }
+
+}

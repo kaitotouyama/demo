@@ -1,0 +1,15 @@
+package com.example.demo.form;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.security.crypto.password.PasswordEncoder;
+
+import lombok.Data;
+
+@Data
+public class AccountForm {
+
+	private String name;
+
+	private String password;
+
+}

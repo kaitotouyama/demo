@@ -1,0 +1,31 @@
+package com.example.demo.controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.ModelAttribute;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+
+import com.example.demo.form.AccountForm;
+import com.example.demo.service.AccountService;
+
+@Controller
+public class AccountController {
+
+	@ModelAttribute()
+	public AccountForm setupForm() {
+		return new AccountForm();
+	}
+
+	@Autowired
+	private AccountService accountService;
+
+	@RequestMapping(value = "account", method = RequestMethod.GET)
+	private String init(Model model, AccountForm form) {
+
+
+		return "/";
+
+	}
+}
