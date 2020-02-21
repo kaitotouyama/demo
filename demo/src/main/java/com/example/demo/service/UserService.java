@@ -24,7 +24,7 @@ import com.example.demo.repository.UserRepository;
 public class UserService {
 
 	@Autowired
-	UserRepository userRepository;
+	private UserRepository userRepository;
 
 	public List<User> findAll() {
 		return userRepository.findAll();
@@ -40,7 +40,7 @@ public class UserService {
 		if (file.exists()) {
 			// 指定ディレクトリ内から最大の連番取得して + 1
 			int seq = Stream.of(new File(dir).listFiles())
-					.filter(s -> s.getName().matches("^テストファイル_[0-9]*.csv$"))
+					.filter(s -> s.getName().matches("^テストファイル_[0-9]+.csv$"))
 					.map(s -> Integer.parseInt(s.getName().substring(8, s.getName().indexOf("."))))
 					.collect(Collectors.toList()).stream().max((a, b) -> a.compareTo(b)).orElse(1) + 1;
 
